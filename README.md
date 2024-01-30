@@ -1,2 +1,3 @@
 # Wordle
-our wordle 
+
+Our wordle. We are creating a web-based game called Wordle.
